@@ -8,8 +8,8 @@ public class Main {
         System.out.println("How many arrays ? ");
         int numbers = scanner.nextInt();
         int[] array = getIntegers(numbers);
-        System.out.println(Arrays.toString(array));
-        System.out.println(Arrays.toString(reverse(array)));
+        System.out.println("Your Arrays = " + Arrays.toString(array));
+        System.out.println("Reverse Arrays = " + Arrays.toString(reverse(array)));
     }
 
     public static int[] getIntegers(int number) {
