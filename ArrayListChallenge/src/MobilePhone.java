@@ -42,21 +42,23 @@ public class MobilePhone {
         }
     }
 
-    private void removeContact(Contacts contactsFound){
+    private void removeContact(Contacts contactsFound) {
         contactsList.remove(contactsFound);
         System.out.println("Contacts name *** " + contactsFound.getName() + " *** has been deleted");
     }
-
 
     public void searchContact(String currentName) {
         Contacts contactsFound = findContact(currentName);
         if (contactsFound != null) {
             System.out.println("Name = " + contactsFound.getName() + " Phone number = " + contactsFound.getPhoneNumber() + " found!");
+            System.out.println("Index of contacts = " + findContact(contactsFound));
         } else {
             System.out.println("Name not found...");
         }
     }
-
+    public int findContact(Contacts contacts) {
+        return this.contactsList.indexOf(contacts);
+    }
 
     private Contacts findContact(String searchName) {
         Contacts searchContact = null;
@@ -67,8 +69,5 @@ public class MobilePhone {
             }
         }
         return searchContact;
-
     }
-
-
 }

@@ -11,7 +11,6 @@ public class Contacts {
         return name;
     }
 
-
     public long getPhoneNumber() {
         return phoneNumber;
     }
