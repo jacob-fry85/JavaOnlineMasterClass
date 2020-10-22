@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a0fa0346-28cd-42f6-b2c1-a6808713657f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ArrayListChallenge(Course answers)/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayListChallenge(Course answers)/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayListChallenge(Course answers)/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayListChallenge(Course answers)/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayListChallenge(Course answers)/ArrayListChallenge(Course answers).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayListChallenge(Course answers)/src/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayListChallenge(Course answers)/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayListChallenge(Course answers)/src/MobilePhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutboxingAndUnboxingChallenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Instructions 2020-10-22_17-27-59.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AutboxingAndUnboxingChallenge/Bank.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AutboxingAndUnboxingChallenge/Branches.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AutboxingAndUnboxingChallenge/Customers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AutboxingAndUnboxingChallenge/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Branches.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Customers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Transaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoboxingAndUnboxing/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoboxingAndUnboxing/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoboxingAndUnboxing/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoboxingAndUnboxing/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoboxingAndUnboxing/AutoboxingAndUnboxing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoboxingAndUnboxing/out/production/AutoboxingAndUnboxing/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoboxingAndUnboxing/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayListChallenge/out/production/ArrayListChallenge/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayListChallenge/out/production/ArrayListChallenge/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayListChallenge/out/production/ArrayListChallenge/MobilePhone.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayListChallenge/out/production/ArrayListChallenge/MobilePhone.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayListChallenge/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayListChallenge/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayListChallenge/src/MobilePhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayListChallenge/src/MobilePhone.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jEHfvucc8dPsN2Th5Fk9XiEh7f" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="AutboxingAndUnboxingChallenge" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0fa0346-28cd-42f6-b2c1-a6808713657f" name="Default Changelist" comment="" />
+      <created>1603362439269</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603362439269</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="153" y="100" key="#com.intellij.ide.util.MemberChooser" timestamp="1603369207770">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="153" y="100" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1603369207770" />
+    <state x="118" y="141" key="FileChooserDialogImpl" timestamp="1603365974483">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="118" y="141" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1603365974483" />
+    <state width="1322" height="290" key="GridCell.Tab.0.bottom" timestamp="1603376917720">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="290" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1603376917720" />
+    <state width="1322" height="290" key="GridCell.Tab.0.center" timestamp="1603376917720">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="290" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1603376917720" />
+    <state width="1322" height="290" key="GridCell.Tab.0.left" timestamp="1603376917720">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="290" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1603376917720" />
+    <state width="1322" height="290" key="GridCell.Tab.0.right" timestamp="1603376917720">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="290" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1603376917720" />
+    <state x="1" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1603369560472">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="1" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1603369560472" />
+  </component>
+</project>

@@ -1,4 +1,3 @@
-import java.util.List;
 import java.util.Scanner;
 
 public class Main {
@@ -48,11 +47,7 @@ public class Main {
     }
 
     public static void printContactList() {
-        List<Contacts> contactsList = mobilePhone.getContactsList();
-        for(Contacts  contacts : contactsList) {
-            System.out.println(contacts.getName() + " " + contacts.getPhoneNumber());
-        }
-        System.out.println("You have " + contactsList.size() + " contact list");
+       mobilePhone.printContacts();
     }
 
     public static void addContact() {
@@ -81,5 +76,4 @@ public class Main {
         String currentName = scanner.next();
         mobilePhone.searchContact(currentName);
     }
-
 }

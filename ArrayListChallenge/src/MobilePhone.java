@@ -70,4 +70,11 @@ public class MobilePhone {
         }
         return searchContact;
     }
+
+    public void printContacts() {
+        for(Contacts  contacts : contactsList) {
+            System.out.println(contacts.getName() + " " + contacts.getPhoneNumber());
+        }
+        System.out.println("You have " + contactsList.size() + " contact list");
+    }
 }
