@@ -10,6 +10,7 @@ public class Main {
         customers = new Customers("Darwin");
         branches = new Branches("South Jakarta", "DKI Jakarta", customers);
         bank = new Bank("BCA", 1111, branches);
+        
         //System.out.println(bank);
 
         printActions();
